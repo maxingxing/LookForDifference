@@ -1,4 +1,4 @@
-# LookForDifference
+# LookForDifferences
 Chromatic Game
 
 Are you a color master? Having extraordinary color vision acuity?
