@@ -1,4 +1,4 @@
-# LookForDifferences
+# Find different color block
 Chromatic Game
 
 Are you a color master? Having extraordinary color vision acuity?
